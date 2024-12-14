@@ -145,7 +145,7 @@
           </sources>
           <outputDirectory>${basedir}/src/main/java</outputDirectory>
           <clearOutputDir>false</clearOutputDir>
-          <packageName>io.currency</packageName>
+          <packageName>io.currency.model</packageName>
           <noGeneratedHeaderComments>true</noGeneratedHeaderComments>
           <extension>true</extension>
           <generateEpisode>false</generateEpisode>
